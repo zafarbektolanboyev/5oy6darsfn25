@@ -125,5 +125,12 @@ button && button.addEventListener('click', function(){
     user.style.height = '250px';
     user.style.border = '1px solid white';
     user.style.borderRadius = '5px';
-    user.style.marginTop = '10px'
+    user.style.marginTop = '10px';
+// 
+    // user.style.width = '802px';
+    // user.style.height = '250px';
+    // user.style.border = '1px solid white';
+    // user.style.borderRadius = '5px';
+    // user.style.marginTop = '10px';
 })
+fr
